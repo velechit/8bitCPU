@@ -1,0 +1,16 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "eec290a3-2d4d-4e05-af16-ee1f1293ea95")
+	(paper "A4")
+	(title_block
+		(title "Clock Generation Module")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

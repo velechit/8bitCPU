@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "8bitcomp")(type "KiCad")(uri "${KIPRJMOD}/../../libs/symbol/8bitcomp.kicad_sym")(options "")(descr ""))
+)

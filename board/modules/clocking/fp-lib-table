@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "8bitcomp")(type "KiCad")(uri "/proj/KiCad/myCPU/board/libs/footprint/8bitcomp.pretty")(options "")(descr ""))
+)
