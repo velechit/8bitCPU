@@ -11,7 +11,8 @@
 		(symbol "7400_1"
 			(pin_numbers hide)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -31,7 +32,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -966,7 +967,8 @@
 		(symbol "7400_2"
 			(pin_numbers hide)
 			(pin_names
-				(offset 1.016) hide)
+				(offset 1.016)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -986,7 +988,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1942,7 +1944,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2898,7 +2900,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3854,7 +3856,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4810,7 +4812,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5766,7 +5768,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6722,7 +6724,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7675,7 +7677,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8088,7 +8090,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8501,7 +8503,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -8893,6 +8895,832 @@
 				)
 			)
 		)
+		(symbol "7404_4"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "7404"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+				)
+			)
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Hex Inverter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "TTL not inv"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP*W7.62mm* SSOP?14* TSSOP?14*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "7404_4_1_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_2_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_3_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_4_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_5_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_6_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_4_7_0"
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -12.7 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "7404_5"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "7404"
+				(at 0 -1.27 0)
+				(effects
+					(font
+						(size 1 1)
+					)
+				)
+			)
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Hex Inverter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "TTL not inv"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "DIP*W7.62mm* SSOP?14* TSSOP?14*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "7404_5_1_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_2_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_3_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_4_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_5_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_6_0"
+				(polyline
+					(pts
+						(xy -3.81 3.81) (xy -3.81 -3.81) (xy 3.81 0) (xy -3.81 3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin output inverted
+					(at 7.62 0 180)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -7.62 0 0)
+					(length 3.81)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "7404_5_7_0"
+				(pin power_in line
+					(at 0 12.7 270)
+					(length 5.08)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 0 -12.7 90)
+					(length 5.08)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "8bitcomp:+5V"
 			(power)
 			(pin_numbers hide)
@@ -9036,7 +9864,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -9988,7 +10816,7 @@
 					)
 				)
 			)
-			(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+			(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10697,7 +11525,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 				(at 0 0 90)
 				(effects
 					(font
@@ -11106,6 +11934,7 @@
 			)
 		)
 		(symbol "8bitcomp:NE555D"
+			(pin_numbers hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -11337,7 +12166,6 @@
 			)
 		)
 		(symbol "8bitcomp:R_Pot"
-			(pin_numbers hide)
 			(pin_names
 				(offset 1.016) hide)
 			(exclude_from_sim no)
@@ -11631,7 +12459,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "8bitcomp:SW_SPST_EVQPE1"
 				(at 0 5.08 0)
 				(effects
 					(font
@@ -11775,7 +12603,7 @@
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
 				(at 5.08 0 0)
 				(effects
 					(font
@@ -12318,6 +13146,238 @@
 				)
 			)
 		)
+		(symbol "NE555D_3"
+			(pin_numbers hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 5.842 12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "NE555D"
+				(at 0 -3.302 90)
+				(effects
+					(font
+						(size 1 1)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+				(at 1.016 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
+				(at 0.508 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Precision Timers, 555 compatible, SOIC-8"
+				(at 0.508 -17.018 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "single timer 555"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SOIC*3.9x4.9mm*P1.27mm*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "NE555D_3_0_0"
+				(pin power_in line
+					(at -2.54 -13.97 90)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NE555D_3_0_1"
+				(rectangle
+					(start -8.89 11.43)
+					(end 8.89 -11.43)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+			(symbol "NE555D_3_1_0"
+				(pin power_in line
+					(at -3.81 15.24 270)
+					(length 3.81)
+					(name "VCC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "NE555D_3_1_1"
+				(pin input line
+					(at -12.7 -5.08 0)
+					(length 3.81)
+					(name "TR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 12.7 1.27 180)
+					(length 3.81)
+					(name "Q"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input inverted
+					(at 2.54 15.24 270)
+					(length 3.81)
+					(name "R"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 2.54 -13.97 90)
+					(length 2.54)
+					(name "CV"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 0 0)
+					(length 3.81)
+					(name "THR"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -12.7 5.08 0)
+					(length 3.81)
+					(name "DIS"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:PWR_FLAG"
 			(power)
 			(pin_numbers hide)
@@ -12428,7 +13488,7 @@
 		(uuid "06774b4f-7280-43ec-9a9a-39488fea42ca")
 	)
 	(junction
-		(at 62.23 129.54)
+		(at 80.01 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1529aead-3bf6-4928-9237-f4c4976fafc3")
@@ -12446,13 +13506,13 @@
 		(uuid "4acfee6e-3448-4f25-87a7-1c53fe6e10ce")
 	)
 	(junction
-		(at 154.94 125.73)
+		(at 172.72 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4ebcbb9b-f001-47e7-90e4-d408b7ca29cb")
 	)
 	(junction
-		(at 48.26 129.54)
+		(at 66.04 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "655afcdf-ca1e-443c-9d71-0b6aa4271c7a")
@@ -12464,7 +13524,7 @@
 		(uuid "6ae58200-455c-4bf0-809a-67b60a6886bb")
 	)
 	(junction
-		(at 207.01 120.65)
+		(at 224.79 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7a65c39d-c2b4-4cdd-9e78-b37e569dc88d")
@@ -12476,7 +13536,7 @@
 		(uuid "7c603aa9-5b12-4aad-b881-040ff2f9d6f2")
 	)
 	(junction
-		(at 64.77 129.54)
+		(at 82.55 128.27)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "828776eb-ffcf-4f04-8942-4afdbf690402")
@@ -12494,7 +13554,7 @@
 		(uuid "a3561967-89e4-435e-9193-5c9f7a9411a5")
 	)
 	(junction
-		(at 154.94 116.84)
+		(at 172.72 115.57)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "aa7a0b8c-5ff8-4d04-a60b-84bf52a1219a")
@@ -12512,19 +13572,19 @@
 		(uuid "b59f1e44-b55c-463f-8776-6600749552f4")
 	)
 	(junction
-		(at 92.71 106.68)
+		(at 110.49 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c36c7e17-4c51-458b-85b9-d493d65ddf45")
 	)
 	(junction
-		(at 74.93 110.49)
+		(at 92.71 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "da7b72a5-3b08-4fef-b525-f76bad6c6d11")
 	)
 	(junction
-		(at 92.71 125.73)
+		(at 110.49 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "dd7d4b96-1882-4265-8cae-eafc0583e569")
@@ -12542,27 +13602,27 @@
 		(uuid "e8b10141-d4c7-4e40-9a19-0a6e76475ff3")
 	)
 	(junction
-		(at 107.95 134.62)
+		(at 125.73 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb48d1f5-5eb2-478b-ad67-8d90f9109ca3")
 	)
 	(junction
-		(at 81.28 110.49)
+		(at 99.06 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f541a0f7-9e14-49fa-9e2b-ad30f376dc09")
 	)
 	(no_connect
-		(at 125.73 127)
+		(at 143.51 125.73)
 		(uuid "5895fb45-b03d-4424-8302-326fbc302865")
 	)
 	(no_connect
-		(at 125.73 121.92)
+		(at 143.51 120.65)
 		(uuid "85c373df-b137-4364-b51b-3000ce8983ef")
 	)
 	(no_connect
-		(at 66.04 121.92)
+		(at 83.82 120.65)
 		(uuid "d52fb19e-9300-4e61-9655-a8a8281cf40e")
 	)
 	(wire
@@ -12577,7 +13637,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 129.54) (xy 62.23 130.81)
+			(xy 80.01 128.27) (xy 80.01 129.54)
 		)
 		(stroke
 			(width 0)
@@ -12617,7 +13677,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 161.29) (xy 107.95 160.02)
+			(xy 124.46 160.02) (xy 125.73 158.75)
 		)
 		(stroke
 			(width 0)
@@ -12647,7 +13707,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 158.75) (xy 73.66 157.48)
+			(xy 92.71 157.48) (xy 91.44 156.21)
 		)
 		(stroke
 			(width 0)
@@ -12667,7 +13727,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 128.27) (xy 62.23 129.54)
+			(xy 80.01 127) (xy 80.01 128.27)
 		)
 		(stroke
 			(width 0)
@@ -12677,7 +13737,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 104.14) (xy 81.28 110.49)
+			(xy 99.06 102.87) (xy 99.06 109.22)
 		)
 		(stroke
 			(width 0)
@@ -12697,7 +13757,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 154.94) (xy 55.88 154.94)
+			(xy 64.77 153.67) (xy 73.66 153.67)
 		)
 		(stroke
 			(width 0)
@@ -12707,7 +13767,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 111.76) (xy 172.72 111.76)
+			(xy 186.69 110.49) (xy 190.5 110.49)
 		)
 		(stroke
 			(width 0)
@@ -12717,7 +13777,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 154.94) (xy 72.39 154.94)
+			(xy 88.9 153.67) (xy 90.17 153.67)
 		)
 		(stroke
 			(width 0)
@@ -12727,7 +13787,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 124.46) (xy 189.23 127)
+			(xy 207.01 123.19) (xy 207.01 125.73)
 		)
 		(stroke
 			(width 0)
@@ -12737,7 +13797,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 166.37) (xy 72.39 167.64)
+			(xy 91.44 165.1) (xy 90.17 166.37)
 		)
 		(stroke
 			(width 0)
@@ -12757,7 +13817,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 116.84) (xy 172.72 116.84)
+			(xy 172.72 115.57) (xy 190.5 115.57)
 		)
 		(stroke
 			(width 0)
@@ -12767,7 +13827,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 135.89) (xy 48.26 146.05)
+			(xy 66.04 134.62) (xy 66.04 144.78)
 		)
 		(stroke
 			(width 0)
@@ -12797,7 +13857,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 163.83) (xy 76.2 163.83)
+			(xy 92.71 162.56) (xy 93.98 162.56)
 		)
 		(stroke
 			(width 0)
@@ -12837,7 +13897,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 134.62) (xy 107.95 160.02)
+			(xy 125.73 133.35) (xy 125.73 158.75)
 		)
 		(stroke
 			(width 0)
@@ -12857,7 +13917,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 110.49) (xy 140.97 111.76)
+			(xy 158.75 109.22) (xy 158.75 110.49)
 		)
 		(stroke
 			(width 0)
@@ -12867,7 +13927,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 135.89) (xy 207.01 138.43)
+			(xy 224.79 134.62) (xy 224.79 137.16)
 		)
 		(stroke
 			(width 0)
@@ -12877,7 +13937,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 123.19) (xy 189.23 124.46)
+			(xy 208.28 121.92) (xy 207.01 123.19)
 		)
 		(stroke
 			(width 0)
@@ -12887,7 +13947,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 165.1) (xy 73.66 166.37)
+			(xy 91.44 163.83) (xy 91.44 165.1)
 		)
 		(stroke
 			(width 0)
@@ -12897,7 +13957,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 129.54) (xy 92.71 128.27)
+			(xy 111.76 128.27) (xy 110.49 127)
 		)
 		(stroke
 			(width 0)
@@ -12927,7 +13987,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 128.27) (xy 39.37 107.95)
+			(xy 57.15 127) (xy 57.15 106.68)
 		)
 		(stroke
 			(width 0)
@@ -12987,7 +14047,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 125.73) (xy 154.94 125.73)
+			(xy 168.91 124.46) (xy 172.72 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13007,7 +14067,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 167.64) (xy 72.39 167.64)
+			(xy 88.9 166.37) (xy 90.17 166.37)
 		)
 		(stroke
 			(width 0)
@@ -13027,7 +14087,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 109.22) (xy 140.97 110.49)
+			(xy 157.48 107.95) (xy 158.75 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13037,7 +14097,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 118.11) (xy 189.23 116.84)
+			(xy 208.28 116.84) (xy 207.01 115.57)
 		)
 		(stroke
 			(width 0)
@@ -13047,7 +14107,7 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 129.54) (xy 62.23 129.54)
+			(xy 77.47 128.27) (xy 80.01 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13057,7 +14117,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 156.21) (xy 73.66 157.48)
+			(xy 91.44 154.94) (xy 91.44 156.21)
 		)
 		(stroke
 			(width 0)
@@ -13067,7 +14127,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 156.21) (xy 72.39 154.94)
+			(xy 91.44 154.94) (xy 90.17 153.67)
 		)
 		(stroke
 			(width 0)
@@ -13077,7 +14137,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 140.97) (xy 76.2 146.05)
+			(xy 93.98 139.7) (xy 93.98 144.78)
 		)
 		(stroke
 			(width 0)
@@ -13087,7 +14147,7 @@
 	)
 	(wire
 		(pts
-			(xy 209.55 120.65) (xy 207.01 120.65)
+			(xy 227.33 119.38) (xy 224.79 119.38)
 		)
 		(stroke
 			(width 0)
@@ -13107,7 +14167,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 130.81) (xy 172.72 130.81)
+			(xy 186.69 129.54) (xy 190.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -13127,7 +14187,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 143.51) (xy 207.01 147.32)
+			(xy 224.79 142.24) (xy 224.79 146.05)
 		)
 		(stroke
 			(width 0)
@@ -13197,7 +14257,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 110.49) (xy 74.93 111.76)
+			(xy 92.71 109.22) (xy 92.71 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13207,7 +14267,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 114.3) (xy 154.94 116.84)
+			(xy 172.72 113.03) (xy 172.72 115.57)
 		)
 		(stroke
 			(width 0)
@@ -13217,7 +14277,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 135.89) (xy 154.94 138.43)
+			(xy 172.72 134.62) (xy 172.72 137.16)
 		)
 		(stroke
 			(width 0)
@@ -13227,7 +14287,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 129.54) (xy 40.64 129.54)
+			(xy 59.69 128.27) (xy 58.42 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13237,7 +14297,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 110.49) (xy 74.93 110.49)
+			(xy 81.28 109.22) (xy 92.71 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13247,7 +14307,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.04 127) (xy 64.77 128.27)
+			(xy 83.82 125.73) (xy 82.55 127)
 		)
 		(stroke
 			(width 0)
@@ -13257,7 +14317,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 125.73) (xy 92.71 125.73)
+			(xy 109.22 124.46) (xy 110.49 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13277,7 +14337,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 104.14) (xy 134.62 111.76)
+			(xy 152.4 102.87) (xy 152.4 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13287,7 +14347,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 116.84) (xy 154.94 125.73)
+			(xy 172.72 115.57) (xy 172.72 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13297,7 +14357,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 115.57) (xy 187.96 114.3)
+			(xy 207.01 114.3) (xy 205.74 113.03)
 		)
 		(stroke
 			(width 0)
@@ -13317,7 +14377,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 113.03) (xy 107.95 134.62)
+			(xy 125.73 111.76) (xy 125.73 133.35)
 		)
 		(stroke
 			(width 0)
@@ -13327,7 +14387,7 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 111.76) (xy 107.95 113.03)
+			(xy 127 110.49) (xy 125.73 111.76)
 		)
 		(stroke
 			(width 0)
@@ -13337,7 +14397,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 129.54) (xy 49.53 129.54)
+			(xy 66.04 128.27) (xy 67.31 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13377,7 +14437,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 106.68) (xy 92.71 106.68)
+			(xy 58.42 105.41) (xy 110.49 105.41)
 		)
 		(stroke
 			(width 0)
@@ -13397,7 +14457,7 @@
 	)
 	(wire
 		(pts
-			(xy 40.64 129.54) (xy 39.37 128.27)
+			(xy 58.42 128.27) (xy 57.15 127)
 		)
 		(stroke
 			(width 0)
@@ -13417,7 +14477,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 163.83) (xy 73.66 165.1)
+			(xy 92.71 162.56) (xy 91.44 163.83)
 		)
 		(stroke
 			(width 0)
@@ -13457,7 +14517,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 135.89) (xy 62.23 146.05)
+			(xy 80.01 134.62) (xy 80.01 144.78)
 		)
 		(stroke
 			(width 0)
@@ -13467,7 +14527,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 130.81) (xy 154.94 125.73)
+			(xy 172.72 129.54) (xy 172.72 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13487,7 +14547,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 106.68) (xy 95.25 106.68)
+			(xy 110.49 105.41) (xy 113.03 105.41)
 		)
 		(stroke
 			(width 0)
@@ -13497,7 +14557,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 146.05) (xy 154.94 143.51)
+			(xy 172.72 144.78) (xy 172.72 142.24)
 		)
 		(stroke
 			(width 0)
@@ -13527,7 +14587,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 167.64) (xy 55.88 167.64)
+			(xy 64.77 166.37) (xy 73.66 166.37)
 		)
 		(stroke
 			(width 0)
@@ -13537,7 +14597,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 129.54) (xy 64.77 130.81)
+			(xy 82.55 128.27) (xy 82.55 129.54)
 		)
 		(stroke
 			(width 0)
@@ -13567,7 +14627,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 158.75) (xy 74.93 158.75)
+			(xy 93.98 157.48) (xy 92.71 157.48)
 		)
 		(stroke
 			(width 0)
@@ -13587,7 +14647,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 128.27) (xy 64.77 129.54)
+			(xy 82.55 127) (xy 82.55 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13597,7 +14657,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 110.49) (xy 81.28 111.76)
+			(xy 99.06 109.22) (xy 99.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13617,7 +14677,7 @@
 	)
 	(wire
 		(pts
-			(xy 46.99 129.54) (xy 48.26 129.54)
+			(xy 64.77 128.27) (xy 66.04 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13627,7 +14687,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 125.73) (xy 92.71 128.27)
+			(xy 110.49 124.46) (xy 110.49 127)
 		)
 		(stroke
 			(width 0)
@@ -13647,7 +14707,7 @@
 	)
 	(wire
 		(pts
-			(xy 125.73 109.22) (xy 139.7 109.22)
+			(xy 143.51 107.95) (xy 157.48 107.95)
 		)
 		(stroke
 			(width 0)
@@ -13677,7 +14737,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 111.76) (xy 109.22 111.76)
+			(xy 128.27 110.49) (xy 127 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13687,7 +14747,7 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 140.97) (xy 135.89 146.05)
+			(xy 153.67 139.7) (xy 153.67 144.78)
 		)
 		(stroke
 			(width 0)
@@ -13727,7 +14787,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 125.73) (xy 157.48 125.73)
+			(xy 172.72 124.46) (xy 175.26 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13747,7 +14807,7 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 106.68) (xy 92.71 125.73)
+			(xy 110.49 105.41) (xy 110.49 124.46)
 		)
 		(stroke
 			(width 0)
@@ -13767,7 +14827,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 130.81) (xy 66.04 132.08)
+			(xy 82.55 129.54) (xy 83.82 130.81)
 		)
 		(stroke
 			(width 0)
@@ -13787,7 +14847,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 123.19) (xy 62.23 111.76)
+			(xy 80.01 121.92) (xy 80.01 110.49)
 		)
 		(stroke
 			(width 0)
@@ -13797,7 +14857,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 120.65) (xy 207.01 130.81)
+			(xy 224.79 119.38) (xy 224.79 129.54)
 		)
 		(stroke
 			(width 0)
@@ -13807,7 +14867,7 @@
 	)
 	(wire
 		(pts
-			(xy 205.74 120.65) (xy 207.01 120.65)
+			(xy 223.52 119.38) (xy 224.79 119.38)
 		)
 		(stroke
 			(width 0)
@@ -13827,7 +14887,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 129.54) (xy 64.77 129.54)
+			(xy 80.01 128.27) (xy 82.55 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13837,7 +14897,7 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 129.54) (xy 48.26 130.81)
+			(xy 66.04 128.27) (xy 66.04 129.54)
 		)
 		(stroke
 			(width 0)
@@ -13847,7 +14907,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 115.57) (xy 189.23 116.84)
+			(xy 207.01 114.3) (xy 207.01 115.57)
 		)
 		(stroke
 			(width 0)
@@ -13857,7 +14917,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 134.62) (xy 110.49 134.62)
+			(xy 125.73 133.35) (xy 128.27 133.35)
 		)
 		(stroke
 			(width 0)
@@ -13887,7 +14947,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 129.54) (xy 93.98 129.54)
+			(xy 128.27 128.27) (xy 111.76 128.27)
 		)
 		(stroke
 			(width 0)
@@ -13907,7 +14967,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 107.95) (xy 40.64 106.68)
+			(xy 57.15 106.68) (xy 58.42 105.41)
 		)
 		(stroke
 			(width 0)
@@ -13917,7 +14977,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 111.76) (xy 63.5 110.49)
+			(xy 80.01 110.49) (xy 81.28 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13927,7 +14987,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 127) (xy 187.96 128.27)
+			(xy 207.01 125.73) (xy 205.74 127)
 		)
 		(stroke
 			(width 0)
@@ -13947,7 +15007,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 110.49) (xy 81.28 110.49)
+			(xy 92.71 109.22) (xy 99.06 109.22)
 		)
 		(stroke
 			(width 0)
@@ -13957,7 +15017,7 @@
 	)
 	(text "Clock Status"
 		(exclude_from_sim no)
-		(at 209.804 137.16 0)
+		(at 227.584 135.89 0)
 		(effects
 			(font
 				(face "Aldrich")
@@ -13969,7 +15029,7 @@
 	)
 	(text "Syncronizer Latch"
 		(exclude_from_sim no)
-		(at 138.43 152.654 0)
+		(at 156.21 151.384 0)
 		(effects
 			(font
 				(face "Aldrich")
@@ -13991,7 +15051,7 @@
 	)
 	(text "Clock Source = Free Running"
 		(exclude_from_sim no)
-		(at 163.83 134.874 0)
+		(at 181.61 133.604 0)
 		(effects
 			(font
 				(face "Aldrich")
@@ -14014,7 +15074,7 @@
 	)
 	(text "Selector"
 		(exclude_from_sim no)
-		(at 61.722 104.394 0)
+		(at 79.502 103.124 0)
 		(effects
 			(font
 				(face "Aldrich")
@@ -14025,7 +15085,7 @@
 	)
 	(text "Clock Source = Manual"
 		(exclude_from_sim no)
-		(at 161.29 108.204 0)
+		(at 179.07 106.934 0)
 		(effects
 			(font
 				(face "Aldrich")
@@ -14067,7 +15127,7 @@
 		(uuid "2145ebbb-c061-4d20-b9b5-562e23dd2102")
 	)
 	(label "FRC"
-		(at 168.91 111.76 0)
+		(at 186.69 110.49 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14087,7 +15147,7 @@
 		(uuid "3f3dfcb2-b27a-4ad5-a3db-84641adcb9c4")
 	)
 	(label "FRC"
-		(at 46.99 154.94 0)
+		(at 64.77 153.67 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14097,7 +15157,7 @@
 		(uuid "60459da0-7563-4427-9a21-f4aedd2a1f6e")
 	)
 	(label "MCC"
-		(at 46.99 167.64 0)
+		(at 64.77 166.37 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14106,8 +15166,18 @@
 		)
 		(uuid "80f4b222-eb8f-4ef7-a065-62abe11c04ca")
 	)
+	(label "FRC_rst_sync"
+		(at 207.01 114.3 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9d27236c-3616-4bb1-bbae-aa2516586bba")
+	)
 	(label "MCC"
-		(at 168.91 130.81 0)
+		(at 186.69 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14115,6 +15185,16 @@
 			(justify left bottom)
 		)
 		(uuid "9fbdc51e-9bb6-4cad-9e66-df370185801e")
+	)
+	(label "MCC_rst_sync"
+		(at 207.01 125.73 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4ae7619-58b7-4321-87ca-939de6f048a6")
 	)
 	(label "MCC_rst_sync"
 		(at 161.29 31.75 180)
@@ -14157,8 +15237,9 @@
 		(uuid "b46b7ede-d925-4869-8847-ed9e7d9d81c1")
 	)
 	(symbol
+		(lib_name "7404_3")
 		(lib_id "8bitcomp:7404")
-		(at 63.5 167.64 0)
+		(at 81.28 166.37 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14166,7 +15247,7 @@
 		(dnp no)
 		(uuid "071ebd10-58a2-4a3a-aa3a-e9328d7a7ab2")
 		(property "Reference" "U5"
-			(at 65.278 170.942 0)
+			(at 83.058 169.672 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14174,7 +15255,7 @@
 			)
 		)
 		(property "Value" "7404"
-			(at 62.484 167.386 0)
+			(at 80.264 166.116 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14182,7 +15263,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 63.5 167.64 0)
+			(at 81.28 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14191,7 +15272,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 63.5 167.64 0)
+			(at 81.28 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14200,7 +15281,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 63.5 167.64 0)
+			(at 81.28 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14261,7 +15342,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:+5V")
-		(at 134.62 104.14 0)
+		(at 152.4 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14270,7 +15351,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e6370e8-27f2-4fa9-948c-1343c562f9f1")
 		(property "Reference" "#PWR010"
-			(at 134.62 107.95 0)
+			(at 152.4 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14279,7 +15360,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 134.62 99.06 0)
+			(at 152.4 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14287,7 +15368,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 134.62 104.14 0)
+			(at 152.4 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14296,7 +15377,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 134.62 104.14 0)
+			(at 152.4 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14305,7 +15386,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 134.62 104.14 0)
+			(at 152.4 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14327,7 +15408,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 154.94 146.05 0)
+		(at 172.72 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14336,7 +15417,7 @@
 		(fields_autoplaced yes)
 		(uuid "0fe7aba2-c11d-46cb-b91a-e9be34918dc2")
 		(property "Reference" "#PWR029"
-			(at 154.94 152.4 0)
+			(at 172.72 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14345,7 +15426,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 154.94 149.86 0)
+			(at 172.72 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14354,7 +15435,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 146.05 0)
+			(at 172.72 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14363,7 +15444,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 146.05 0)
+			(at 172.72 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14372,7 +15453,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 154.94 146.05 0)
+			(at 172.72 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14394,7 +15475,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 62.23 133.35 0)
+		(at 80.01 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14402,7 +15483,7 @@
 		(dnp no)
 		(uuid "11bef301-e9d6-4847-9987-d4e8b4b8ea70")
 		(property "Reference" "R6"
-			(at 58.674 133.096 0)
+			(at 76.454 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14411,7 +15492,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 62.23 133.35 90)
+			(at 80.01 132.08 90)
 			(effects
 				(font
 					(size 1 1)
@@ -14419,7 +15500,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 62.23 133.35 0)
+			(at 80.01 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14428,7 +15509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 133.35 0)
+			(at 80.01 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14437,7 +15518,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 62.23 133.35 0)
+			(at 80.01 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14527,113 +15608,9 @@
 		)
 	)
 	(symbol
-		(lib_name "7400_7")
-		(lib_id "8bitcomp:7400")
-		(at 180.34 114.3 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1bc57915-a72a-4fe4-8ff5-d5bb27d98327")
-		(property "Reference" "U8"
-			(at 175.514 114.046 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7400"
-			(at 180.086 114.3 0)
-			(effects
-				(font
-					(size 1 1)
-				)
-			)
-		)
-		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 180.34 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 180.34 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "quad 2-input NAND gate"
-			(at 180.34 114.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "11"
-			(uuid "3a0de677-4595-4be3-8cd7-839982e9fdb4")
-		)
-		(pin "6"
-			(uuid "5c849be8-333f-43fe-b6ad-c55a5369f949")
-		)
-		(pin "5"
-			(uuid "041d60e5-12a1-4874-ad3b-89a68f5043f9")
-		)
-		(pin "14"
-			(uuid "f7b80559-78a6-43e5-b678-a3557b87f86b")
-		)
-		(pin "4"
-			(uuid "62030557-2423-416b-bead-832199b00906")
-		)
-		(pin "10"
-			(uuid "940d66a1-5135-4df9-9dfe-76277caa2a08")
-		)
-		(pin "9"
-			(uuid "c57f3ec5-5c88-444d-a842-b6190508f491")
-		)
-		(pin "7"
-			(uuid "90102b7a-c875-4095-861a-effb22dacb36")
-		)
-		(pin "8"
-			(uuid "fd88bc24-f557-47a6-836d-0eba052bafe8")
-		)
-		(pin "13"
-			(uuid "046e4790-a7d2-454b-acde-04c68e09ccdd")
-		)
-		(pin "12"
-			(uuid "36bcc2b5-5815-4832-bef2-ab5d2f8aa3b5")
-		)
-		(pin "3"
-			(uuid "e66e64ab-1e38-4572-a25b-969f554df682")
-		)
-		(pin "2"
-			(uuid "78a5dd61-2db4-400f-bc42-1e5582f199de")
-		)
-		(pin "1"
-			(uuid "b96a2b7a-72b4-4fbe-ba5f-795a2366e291")
-		)
-		(instances
-			(project ""
-				(path "/eec290a3-2d4d-4e05-af16-ee1f1293ea95"
-					(reference "U8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "7404_1")
 		(lib_id "8bitcomp:7404")
-		(at 102.87 106.68 0)
+		(at 120.65 105.41 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14641,7 +15618,7 @@
 		(dnp no)
 		(uuid "1c4d0c51-c1bf-430e-96f9-ddace2113711")
 		(property "Reference" "U5"
-			(at 105.41 103.378 0)
+			(at 123.19 102.108 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14649,7 +15626,7 @@
 			)
 		)
 		(property "Value" "7404"
-			(at 102.108 106.426 0)
+			(at 119.888 105.156 0)
 			(effects
 				(font
 					(size 1 1)
@@ -14657,7 +15634,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 102.87 106.68 0)
+			(at 120.65 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14666,7 +15643,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 102.87 106.68 0)
+			(at 120.65 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14675,7 +15652,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 102.87 106.68 0)
+			(at 120.65 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14828,7 +15805,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 92.456 80.518 0)
 			(effects
 				(font
@@ -14883,6 +15860,112 @@
 			(project ""
 				(path "/eec290a3-2d4d-4e05-af16-ee1f1293ea95"
 					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "7400_7")
+		(lib_id "8bitcomp:7400")
+		(at 198.12 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "1d318c37-8721-4f99-8e7a-03f06299f652")
+		(property "Reference" "U6"
+			(at 193.04 115.062 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "7400"
+			(at 197.612 114.808 90)
+			(effects
+				(font
+					(size 1 1)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
+			(at 198.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
+			(at 198.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "quad 2-input NAND gate"
+			(at 198.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "11"
+			(uuid "3a0de677-4595-4be3-8cd7-839982e9fdbd")
+		)
+		(pin "6"
+			(uuid "5c849be8-333f-43fe-b6ad-c55a5369f952")
+		)
+		(pin "5"
+			(uuid "041d60e5-12a1-4874-ad3b-89a68f504402")
+		)
+		(pin "14"
+			(uuid "f7b80559-78a6-43e5-b678-a3557b87f874")
+		)
+		(pin "4"
+			(uuid "62030557-2423-416b-bead-832199b0090f")
+		)
+		(pin "10"
+			(uuid "940d66a1-5135-4df9-9dfe-76277caa2a11")
+		)
+		(pin "9"
+			(uuid "c57f3ec5-5c88-444d-a842-b6190508f49a")
+		)
+		(pin "7"
+			(uuid "90102b7a-c875-4095-861a-effb22dacb3f")
+		)
+		(pin "8"
+			(uuid "fd88bc24-f557-47a6-836d-0eba052baff1")
+		)
+		(pin "13"
+			(uuid "046e4790-a7d2-454b-acde-04c68e09cce6")
+		)
+		(pin "12"
+			(uuid "36bcc2b5-5815-4832-bef2-ab5d2f8aa3be")
+		)
+		(pin "3"
+			(uuid "6f94789a-5efd-4cd9-8a58-0931c529f33c")
+		)
+		(pin "2"
+			(uuid "66bc81eb-cb94-4ce0-9c87-e37655cf320c")
+		)
+		(pin "1"
+			(uuid "a6398d4d-5ed1-447e-852c-5a1547f8d5a7")
+		)
+		(instances
+			(project "clocking"
+				(path "/eec290a3-2d4d-4e05-af16-ee1f1293ea95"
+					(reference "U6")
 					(unit 1)
 				)
 			)
@@ -15028,7 +16111,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 207.01 140.97 0)
+		(at 224.79 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15036,7 +16119,7 @@
 		(dnp no)
 		(uuid "27dab53c-ea53-4785-a5a1-ba3b75e62e46")
 		(property "Reference" "R10"
-			(at 201.93 140.716 0)
+			(at 219.71 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15045,7 +16128,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 207.01 140.97 90)
+			(at 224.79 139.7 90)
 			(effects
 				(font
 					(size 1 1)
@@ -15053,7 +16136,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 207.01 140.97 0)
+			(at 224.79 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15062,7 +16145,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 140.97 0)
+			(at 224.79 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15071,7 +16154,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 207.01 140.97 0)
+			(at 224.79 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15231,7 +16314,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 76.2 146.05 0)
+		(at 93.98 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15240,7 +16323,7 @@
 		(fields_autoplaced yes)
 		(uuid "2b8e4ae6-ba12-43d8-a5c0-37208f9a1021")
 		(property "Reference" "#PWR025"
-			(at 76.2 152.4 0)
+			(at 93.98 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15249,7 +16332,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 76.2 149.86 0)
+			(at 93.98 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -15258,7 +16341,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 76.2 146.05 0)
+			(at 93.98 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15267,7 +16350,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 76.2 146.05 0)
+			(at 93.98 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15276,7 +16359,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 76.2 146.05 0)
+			(at 93.98 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15433,7 +16516,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:TestPoint")
-		(at 209.55 120.65 270)
+		(at 227.33 119.38 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15442,7 +16525,7 @@
 		(fields_autoplaced yes)
 		(uuid "30f56ac3-ea26-45fd-a92c-a9291cf2f793")
 		(property "Reference" "TP4"
-			(at 214.63 119.3799 90)
+			(at 232.41 118.1099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15451,7 +16534,7 @@
 			)
 		)
 		(property "Value" "Output"
-			(at 214.63 121.92 90)
+			(at 232.41 120.65 90)
 			(effects
 				(font
 					(size 1 1)
@@ -15460,7 +16543,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
-			(at 209.55 125.73 0)
+			(at 227.33 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15469,7 +16552,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 209.55 125.73 0)
+			(at 227.33 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15478,7 +16561,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 209.55 120.65 0)
+			(at 227.33 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15501,7 +16584,7 @@
 	(symbol
 		(lib_name "7400_8")
 		(lib_id "8bitcomp:7400")
-		(at 198.12 120.65 0)
+		(at 215.9 119.38 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15509,7 +16592,7 @@
 		(dnp no)
 		(uuid "33c9c266-f4ed-4dfb-9da6-3e768ee9c5b9")
 		(property "Reference" "U7"
-			(at 193.04 120.65 90)
+			(at 210.82 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15517,7 +16600,7 @@
 			)
 		)
 		(property "Value" "7400"
-			(at 197.866 120.65 0)
+			(at 215.646 119.38 0)
 			(effects
 				(font
 					(size 1 1)
@@ -15525,7 +16608,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 198.12 120.65 0)
+			(at 215.9 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15534,7 +16617,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 198.12 120.65 0)
+			(at 215.9 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15543,7 +16626,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 198.12 120.65 0)
+			(at 215.9 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15938,7 +17021,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 207.01 147.32 0)
+		(at 224.79 146.05 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -15947,7 +17030,7 @@
 		(fields_autoplaced yes)
 		(uuid "4454db10-7e92-4bb0-959a-123cf15da84d")
 		(property "Reference" "#PWR030"
-			(at 207.01 153.67 0)
+			(at 224.79 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15956,7 +17039,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 207.01 151.13 0)
+			(at 224.79 149.86 0)
 			(effects
 				(font
 					(size 1 1)
@@ -15965,7 +17048,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 207.01 147.32 0)
+			(at 224.79 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15974,7 +17057,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 207.01 147.32 0)
+			(at 224.79 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15983,7 +17066,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 207.01 147.32 0)
+			(at 224.79 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16005,7 +17088,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:NE555D")
-		(at 138.43 127 0)
+		(at 156.21 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16013,7 +17096,7 @@
 		(dnp no)
 		(uuid "4737e442-8e59-41f2-9b7a-bd06136dfed8")
 		(property "Reference" "U4"
-			(at 144.272 114.3 0)
+			(at 162.052 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16022,7 +17105,7 @@
 			)
 		)
 		(property "Value" "NE555D"
-			(at 138.43 130.302 90)
+			(at 156.21 129.032 90)
 			(effects
 				(font
 					(size 1 1)
@@ -16030,8 +17113,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 139.446 144.018 0)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 157.226 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16040,7 +17123,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
-			(at 138.938 144.018 0)
+			(at 156.718 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16049,7 +17132,7 @@
 			)
 		)
 		(property "Description" "Precision Timers, 555 compatible, SOIC-8"
-			(at 138.938 144.018 0)
+			(at 156.718 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16092,7 +17175,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:+5V")
-		(at 81.28 104.14 0)
+		(at 99.06 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16101,7 +17184,7 @@
 		(fields_autoplaced yes)
 		(uuid "49e5ae4c-b0e4-4d0a-b776-0d497c7661a4")
 		(property "Reference" "#PWR09"
-			(at 81.28 107.95 0)
+			(at 99.06 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16110,7 +17193,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 81.28 99.06 0)
+			(at 99.06 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16118,7 +17201,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 104.14 0)
+			(at 99.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16127,7 +17210,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 104.14 0)
+			(at 99.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16136,7 +17219,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 81.28 104.14 0)
+			(at 99.06 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16225,7 +17308,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 135.89 146.05 0)
+		(at 153.67 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16234,7 +17317,7 @@
 		(fields_autoplaced yes)
 		(uuid "4a4a43b9-3655-453f-a4d0-caf4e2b779df")
 		(property "Reference" "#PWR027"
-			(at 135.89 152.4 0)
+			(at 153.67 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16243,7 +17326,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 135.89 149.86 0)
+			(at 153.67 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16252,7 +17335,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 135.89 146.05 0)
+			(at 153.67 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16261,7 +17344,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 135.89 146.05 0)
+			(at 153.67 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16270,7 +17353,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 135.89 146.05 0)
+			(at 153.67 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16292,7 +17375,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 154.94 111.76 0)
+		(at 172.72 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16300,7 +17383,7 @@
 		(dnp no)
 		(uuid "4b571aa1-e5d9-40d2-a85e-60de55742625")
 		(property "Reference" "R8"
-			(at 150.622 111.76 0)
+			(at 168.402 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16309,7 +17392,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 154.94 111.76 90)
+			(at 172.72 110.49 90)
 			(effects
 				(font
 					(size 1 1)
@@ -16317,7 +17400,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 154.94 111.76 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16326,7 +17409,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 111.76 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16335,7 +17418,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 154.94 111.76 0)
+			(at 172.72 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16598,7 +17681,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 81.28 146.05 0)
+		(at 99.06 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16607,7 +17690,7 @@
 		(fields_autoplaced yes)
 		(uuid "5e6cb34f-e021-4ab0-adff-a78387e8b6fe")
 		(property "Reference" "#PWR026"
-			(at 81.28 152.4 0)
+			(at 99.06 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16616,7 +17699,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 81.28 149.86 0)
+			(at 99.06 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16625,7 +17708,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 146.05 0)
+			(at 99.06 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16634,7 +17717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 146.05 0)
+			(at 99.06 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16643,7 +17726,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 81.28 146.05 0)
+			(at 99.06 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16799,7 +17882,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 48.26 146.05 0)
+		(at 66.04 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16808,7 +17891,7 @@
 		(fields_autoplaced yes)
 		(uuid "70cb256c-b208-499b-af1a-f3d16d7a3ad2")
 		(property "Reference" "#PWR023"
-			(at 48.26 152.4 0)
+			(at 66.04 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16817,7 +17900,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 48.26 149.86 0)
+			(at 66.04 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -16826,7 +17909,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 48.26 146.05 0)
+			(at 66.04 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16835,7 +17918,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 48.26 146.05 0)
+			(at 66.04 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16844,7 +17927,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 48.26 146.05 0)
+			(at 66.04 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17132,7 +18215,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "8bitcomp:D_SOD-323"
+		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 67.31 62.23 90)
 			(effects
 				(font
@@ -17193,9 +18276,9 @@
 		)
 	)
 	(symbol
-		(lib_name "7400_4")
+		(lib_name "7400_3")
 		(lib_id "8bitcomp:7400")
-		(at 118.11 109.22 0)
+		(at 135.89 107.95 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17203,7 +18286,7 @@
 		(dnp no)
 		(uuid "87af5097-9696-4c6a-8809-842f4206aae1")
 		(property "Reference" "U6"
-			(at 113.03 108.966 90)
+			(at 130.81 107.696 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17211,7 +18294,7 @@
 			)
 		)
 		(property "Value" "7400"
-			(at 117.602 109.22 0)
+			(at 135.382 107.95 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17219,7 +18302,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 118.11 109.22 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17228,7 +18311,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 118.11 109.22 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17237,7 +18320,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 118.11 109.22 0)
+			(at 135.89 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17298,7 +18381,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:+5V")
-		(at 154.94 104.14 0)
+		(at 172.72 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17307,7 +18390,7 @@
 		(fields_autoplaced yes)
 		(uuid "88083e67-aa24-4bf8-b6bc-2ade26b662cb")
 		(property "Reference" "#PWR011"
-			(at 154.94 107.95 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17316,7 +18399,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 154.94 99.06 0)
+			(at 172.72 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17324,7 +18407,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 154.94 104.14 0)
+			(at 172.72 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17333,7 +18416,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 104.14 0)
+			(at 172.72 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17342,7 +18425,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 154.94 104.14 0)
+			(at 172.72 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17364,7 +18447,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Cap")
-		(at 81.28 143.51 0)
+		(at 99.06 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17372,7 +18455,7 @@
 		(dnp no)
 		(uuid "88d8fbab-231d-404e-b5d0-85e1962ca0fa")
 		(property "Reference" "C6"
-			(at 81.534 141.732 0)
+			(at 99.314 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17381,7 +18464,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 81.534 145.542 0)
+			(at 99.314 144.272 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17390,7 +18473,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 81.28 143.51 0)
+			(at 99.06 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17399,7 +18482,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 81.28 143.51 0)
+			(at 99.06 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17408,7 +18491,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 81.28 143.51 0)
+			(at 99.06 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17499,7 +18582,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Cap")
-		(at 140.97 143.51 0)
+		(at 158.75 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17507,7 +18590,7 @@
 		(dnp no)
 		(uuid "95bb3c31-21c9-4652-bf59-88197802d2bb")
 		(property "Reference" "C7"
-			(at 141.224 141.732 0)
+			(at 159.004 140.462 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17516,7 +18599,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 141.224 145.542 0)
+			(at 159.004 144.272 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17525,7 +18608,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
-			(at 140.97 143.51 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17534,7 +18617,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 140.97 143.51 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17543,7 +18626,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 140.97 143.51 0)
+			(at 158.75 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17567,8 +18650,9 @@
 		)
 	)
 	(symbol
+		(lib_name "7404_2")
 		(lib_id "8bitcomp:7404")
-		(at 63.5 154.94 0)
+		(at 81.28 153.67 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17576,7 +18660,7 @@
 		(dnp no)
 		(uuid "9a0798bc-21d8-4572-be83-103adec570f9")
 		(property "Reference" "U5"
-			(at 65.786 151.638 0)
+			(at 83.566 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17584,7 +18668,7 @@
 			)
 		)
 		(property "Value" "7404"
-			(at 62.738 154.94 0)
+			(at 80.518 153.67 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17592,7 +18676,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 63.5 154.94 0)
+			(at 81.28 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17601,7 +18685,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 63.5 154.94 0)
+			(at 81.28 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17610,7 +18694,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 63.5 154.94 0)
+			(at 81.28 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17670,9 +18754,9 @@
 		)
 	)
 	(symbol
-		(lib_name "7400_3")
+		(lib_name "7400_4")
 		(lib_id "8bitcomp:7400")
-		(at 118.11 132.08 0)
+		(at 135.89 130.81 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17680,7 +18764,7 @@
 		(dnp no)
 		(uuid "9f3d92a4-23f3-4b91-8d5c-eacd782220c7")
 		(property "Reference" "U6"
-			(at 113.03 131.826 90)
+			(at 130.81 130.556 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17688,7 +18772,7 @@
 			)
 		)
 		(property "Value" "7400"
-			(at 117.602 132.334 0)
+			(at 135.382 131.064 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17696,7 +18780,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 118.11 132.08 0)
+			(at 135.89 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17705,7 +18789,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 118.11 132.08 0)
+			(at 135.89 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17714,7 +18798,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 118.11 132.08 0)
+			(at 135.89 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17842,7 +18926,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 154.94 140.97 0)
+		(at 172.72 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17850,7 +18934,7 @@
 		(dnp no)
 		(uuid "a9a94d56-704a-4cd5-bd70-16be31f9b6ae")
 		(property "Reference" "R9"
-			(at 150.622 140.97 0)
+			(at 168.402 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17859,7 +18943,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 154.94 140.97 90)
+			(at 172.72 139.7 90)
 			(effects
 				(font
 					(size 1 1)
@@ -17867,7 +18951,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 154.94 140.97 0)
+			(at 172.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17876,7 +18960,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 140.97 0)
+			(at 172.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17885,7 +18969,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 154.94 140.97 0)
+			(at 172.72 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17909,9 +18993,9 @@
 		)
 	)
 	(symbol
-		(lib_name "7404_2")
+		(lib_name "7404_4")
 		(lib_id "8bitcomp:7404")
-		(at 99.06 161.29 0)
+		(at 116.84 160.02 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17919,7 +19003,7 @@
 		(dnp no)
 		(uuid "ae75d061-33e3-4723-aaab-f84ba6f33bba")
 		(property "Reference" "U5"
-			(at 100.584 157.988 0)
+			(at 118.364 156.718 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17927,7 +19011,7 @@
 			)
 		)
 		(property "Value" "7404"
-			(at 98.298 161.036 0)
+			(at 116.078 159.766 0)
 			(effects
 				(font
 					(size 1 1)
@@ -17935,7 +19019,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 99.06 161.29 0)
+			(at 116.84 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17944,7 +19028,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 99.06 161.29 0)
+			(at 116.84 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17953,7 +19037,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 99.06 161.29 0)
+			(at 116.84 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18079,8 +19163,9 @@
 		)
 	)
 	(symbol
+		(lib_name "NE555D_3")
 		(lib_id "8bitcomp:NE555D")
-		(at 78.74 127 0)
+		(at 96.52 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18088,7 +19173,7 @@
 		(dnp no)
 		(uuid "b1cc79db-a541-46b1-bb25-fa4fc54814c3")
 		(property "Reference" "U3"
-			(at 84.582 114.3 0)
+			(at 102.362 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18097,7 +19182,7 @@
 			)
 		)
 		(property "Value" "NE555D"
-			(at 78.74 130.302 90)
+			(at 96.52 129.032 90)
 			(effects
 				(font
 					(size 1 1)
@@ -18105,8 +19190,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
-			(at 79.756 144.018 0)
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+			(at 97.536 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18115,7 +19200,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/ne555.pdf"
-			(at 79.248 144.018 0)
+			(at 97.028 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18124,7 +19209,7 @@
 			)
 		)
 		(property "Description" "Precision Timers, 555 compatible, SOIC-8"
-			(at 79.248 144.018 0)
+			(at 97.028 142.748 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18304,7 +19389,7 @@
 	(symbol
 		(lib_name "7400_6")
 		(lib_id "8bitcomp:7400")
-		(at 180.34 128.27 0)
+		(at 198.12 127 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18312,7 +19397,7 @@
 		(dnp no)
 		(uuid "b2dca7ad-0712-407e-a40d-4fad867bb2ee")
 		(property "Reference" "U7"
-			(at 175.514 128.016 90)
+			(at 193.294 126.746 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18320,7 +19405,7 @@
 			)
 		)
 		(property "Value" "7400"
-			(at 180.086 128.27 0)
+			(at 197.866 127 0)
 			(effects
 				(font
 					(size 1 1)
@@ -18328,7 +19413,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 180.34 128.27 0)
+			(at 198.12 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18337,7 +19422,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 180.34 128.27 0)
+			(at 198.12 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18346,7 +19431,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 180.34 128.27 0)
+			(at 198.12 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18682,9 +19767,9 @@
 		)
 	)
 	(symbol
-		(lib_name "7404_3")
+		(lib_name "7404_5")
 		(lib_id "8bitcomp:7404")
-		(at 165.1 125.73 0)
+		(at 182.88 124.46 0)
 		(unit 5)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18692,7 +19777,7 @@
 		(dnp no)
 		(uuid "bb640826-e68b-4093-b7c7-3c5536b06978")
 		(property "Reference" "U5"
-			(at 166.878 122.936 0)
+			(at 184.658 121.666 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18700,7 +19785,7 @@
 			)
 		)
 		(property "Value" "7404"
-			(at 164.084 125.476 0)
+			(at 181.864 124.206 0)
 			(effects
 				(font
 					(size 1 1)
@@ -18708,7 +19793,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 165.1 125.73 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18717,7 +19802,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn74LS04"
-			(at 165.1 125.73 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18726,7 +19811,7 @@
 			)
 		)
 		(property "Description" "Hex Inverter"
-			(at 165.1 125.73 0)
+			(at 182.88 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18787,7 +19872,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 62.23 125.73 0)
+		(at 80.01 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18795,7 +19880,7 @@
 		(dnp no)
 		(uuid "ca81cf01-bac6-4791-8194-ce9262913f95")
 		(property "Reference" "R5"
-			(at 58.674 125.73 0)
+			(at 76.454 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18804,7 +19889,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 62.23 125.73 90)
+			(at 80.01 124.46 90)
 			(effects
 				(font
 					(size 1 1)
@@ -18812,7 +19897,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 62.23 125.73 0)
+			(at 80.01 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18821,7 +19906,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 62.23 125.73 0)
+			(at 80.01 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18830,7 +19915,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 62.23 125.73 0)
+			(at 80.01 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18855,7 +19940,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:TacatileSW")
-		(at 54.61 129.54 0)
+		(at 72.39 128.27 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18863,7 +19948,7 @@
 		(dnp no)
 		(uuid "ce1f2853-199f-4e40-8af6-4913695b06d2")
 		(property "Reference" "SW2"
-			(at 52.324 124.968 0)
+			(at 70.104 123.698 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18872,7 +19957,7 @@
 			)
 		)
 		(property "Value" "SEL"
-			(at 54.61 131.064 0)
+			(at 72.39 129.794 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18880,7 +19965,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SW_SPST_EVQPE1"
-			(at 54.61 124.46 0)
+			(at 72.39 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18889,7 +19974,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 54.61 124.46 0)
+			(at 72.39 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18898,7 +19983,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 54.61 129.54 0)
+			(at 72.39 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18991,7 +20076,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:LED")
-		(at 154.94 133.35 90)
+		(at 172.72 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19000,7 +20085,7 @@
 		(fields_autoplaced yes)
 		(uuid "d1e42679-585b-4f23-b4e9-b02c3bfc5f99")
 		(property "Reference" "D2"
-			(at 157.48 132.0164 90)
+			(at 175.26 130.7464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19009,7 +20094,7 @@
 			)
 		)
 		(property "Value" "GREEN"
-			(at 157.48 134.5565 90)
+			(at 175.26 133.2865 90)
 			(effects
 				(font
 					(size 1 1)
@@ -19018,7 +20103,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
-			(at 154.94 133.35 90)
+			(at 172.72 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19027,7 +20112,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 133.35 90)
+			(at 172.72 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19036,7 +20121,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 154.94 133.35 0)
+			(at 172.72 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19062,7 +20147,7 @@
 	(symbol
 		(lib_name "7400_5")
 		(lib_id "8bitcomp:7400")
-		(at 83.82 161.29 0)
+		(at 101.6 160.02 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19070,7 +20155,7 @@
 		(dnp no)
 		(uuid "d2fd9ead-8b50-4b87-84d8-b2c33efa4f18")
 		(property "Reference" "U7"
-			(at 78.486 161.29 90)
+			(at 96.266 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19078,7 +20163,7 @@
 			)
 		)
 		(property "Value" "7400"
-			(at 83.312 161.29 0)
+			(at 101.092 160.02 0)
 			(effects
 				(font
 					(size 1 1)
@@ -19086,7 +20171,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
-			(at 83.82 161.29 0)
+			(at 101.6 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19095,7 +20180,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/gpn/sn7400"
-			(at 83.82 161.29 0)
+			(at 101.6 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19104,7 +20189,7 @@
 			)
 		)
 		(property "Description" "quad 2-input NAND gate"
-			(at 83.82 161.29 0)
+			(at 101.6 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19607,7 +20692,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:LED")
-		(at 154.94 106.68 90)
+		(at 172.72 105.41 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19616,7 +20701,7 @@
 		(fields_autoplaced yes)
 		(uuid "dbd10cc8-8144-4b0c-a05e-b2ef507fa257")
 		(property "Reference" "D3"
-			(at 157.48 105.3464 90)
+			(at 175.26 104.0764 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19625,7 +20710,7 @@
 			)
 		)
 		(property "Value" "RED"
-			(at 157.48 107.8865 90)
+			(at 175.26 106.6165 90)
 			(effects
 				(font
 					(size 1 1)
@@ -19634,7 +20719,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
-			(at 154.94 106.68 90)
+			(at 172.72 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19643,7 +20728,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 154.94 106.68 90)
+			(at 172.72 105.41 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19652,7 +20737,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 154.94 106.68 0)
+			(at 172.72 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19974,7 +21059,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 143.256 80.518 0)
 			(effects
 				(font
@@ -20103,7 +21188,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 140.97 146.05 0)
+		(at 158.75 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20112,7 +21197,7 @@
 		(fields_autoplaced yes)
 		(uuid "e3c4bbc5-2381-4ae6-8ee6-478d52be4b1d")
 		(property "Reference" "#PWR028"
-			(at 140.97 152.4 0)
+			(at 158.75 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20121,7 +21206,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 149.86 0)
+			(at 158.75 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -20130,7 +21215,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 146.05 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20139,7 +21224,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 146.05 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20148,7 +21233,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 146.05 0)
+			(at 158.75 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20170,7 +21255,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:GND")
-		(at 62.23 146.05 0)
+		(at 80.01 144.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20179,7 +21264,7 @@
 		(fields_autoplaced yes)
 		(uuid "e69eeddf-acad-4568-98cf-8978abfa0888")
 		(property "Reference" "#PWR024"
-			(at 62.23 152.4 0)
+			(at 80.01 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20188,7 +21273,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 149.86 0)
+			(at 80.01 148.59 0)
 			(effects
 				(font
 					(size 1 1)
@@ -20197,7 +21282,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 146.05 0)
+			(at 80.01 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20206,7 +21291,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 146.05 0)
+			(at 80.01 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20215,7 +21300,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 146.05 0)
+			(at 80.01 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20307,7 +21392,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Cap-Polarized")
-		(at 48.26 133.35 0)
+		(at 66.04 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20315,7 +21400,7 @@
 		(dnp no)
 		(uuid "f5cac75e-0c3f-4f81-b081-0592320a98c1")
 		(property "Reference" "C5"
-			(at 49.276 131.572 0)
+			(at 67.056 130.302 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20324,7 +21409,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 49.276 135.128 0)
+			(at 67.056 133.858 0)
 			(effects
 				(font
 					(size 1 1)
@@ -20333,7 +21418,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:CP_EIA-3216-18_Kemet-A"
-			(at 48.26 133.35 0)
+			(at 66.04 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20342,7 +21427,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 48.26 133.35 0)
+			(at 66.04 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20351,7 +21436,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 48.26 133.35 0)
+			(at 66.04 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20376,7 +21461,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:Res")
-		(at 44.45 129.54 90)
+		(at 62.23 128.27 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20384,7 +21469,7 @@
 		(dnp no)
 		(uuid "f84ab1cd-2cfb-4010-9589-3e105c71521e")
 		(property "Reference" "R7"
-			(at 46.228 127.762 90)
+			(at 64.008 126.492 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20393,7 +21478,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 44.45 129.54 90)
+			(at 62.23 128.27 90)
 			(effects
 				(font
 					(size 1 1)
@@ -20401,7 +21486,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 44.45 129.54 0)
+			(at 62.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20410,7 +21495,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 44.45 129.54 0)
+			(at 62.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20419,7 +21504,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 44.45 129.54 0)
+			(at 62.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20444,7 +21529,7 @@
 	)
 	(symbol
 		(lib_id "8bitcomp:LED")
-		(at 207.01 133.35 90)
+		(at 224.79 132.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20453,7 +21538,7 @@
 		(fields_autoplaced yes)
 		(uuid "f8e74d9d-2989-45c2-8f90-85ae91df5742")
 		(property "Reference" "D4"
-			(at 209.55 132.0164 90)
+			(at 227.33 130.7464 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20462,7 +21547,7 @@
 			)
 		)
 		(property "Value" "WHITE"
-			(at 209.55 134.5565 90)
+			(at 227.33 133.2865 90)
 			(effects
 				(font
 					(size 1 1)
@@ -20471,7 +21556,7 @@
 			)
 		)
 		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
-			(at 207.01 133.35 90)
+			(at 224.79 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20480,7 +21565,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 207.01 133.35 90)
+			(at 224.79 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20489,7 +21574,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol, filled shape"
-			(at 207.01 133.35 0)
+			(at 224.79 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
