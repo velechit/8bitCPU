@@ -14048,7 +14048,6 @@
 	)
 	(label "HALT"
 		(at 71.12 29.21 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14059,7 +14058,6 @@
 	)
 	(label "HALT"
 		(at 142.24 30.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14070,7 +14068,6 @@
 	)
 	(label "FRC"
 		(at 168.91 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14081,7 +14078,6 @@
 	)
 	(label "MCC"
 		(at 158.75 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14092,7 +14088,6 @@
 	)
 	(label "FRC"
 		(at 46.99 154.94 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14103,7 +14098,6 @@
 	)
 	(label "MCC"
 		(at 46.99 167.64 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14114,7 +14108,6 @@
 	)
 	(label "MCC"
 		(at 168.91 130.81 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14125,7 +14118,6 @@
 	)
 	(label "MCC_rst_sync"
 		(at 161.29 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14136,7 +14128,6 @@
 	)
 	(label "FRC_rst_sync"
 		(at 110.49 31.75 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14147,7 +14138,6 @@
 	)
 	(label "HALT"
 		(at 91.44 30.48 270)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14158,7 +14148,6 @@
 	)
 	(label "FRC"
 		(at 107.95 62.23 180)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -14192,7 +14181,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 63.5 167.64 0)
 			(effects
 				(font
@@ -14429,7 +14418,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 133.35 0)
 			(effects
 				(font
@@ -14563,7 +14552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 180.34 114.3 0)
 			(effects
 				(font
@@ -14667,7 +14656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 102.87 106.68 0)
 			(effects
 				(font
@@ -14839,7 +14828,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 92.456 80.518 0)
 			(effects
 				(font
@@ -14926,7 +14915,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 128.27 80.01 0)
 			(effects
 				(font
@@ -14995,7 +14984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:CP_EIA-3216-18_Kemet-A"
 			(at 181.61 40.64 0)
 			(effects
 				(font
@@ -15063,7 +15052,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 207.01 140.97 0)
 			(effects
 				(font
@@ -15131,7 +15120,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 128.27 54.61 0)
 			(effects
 				(font
@@ -15334,7 +15323,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.98 80.01 0)
 			(effects
 				(font
@@ -15470,7 +15459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
 			(at 209.55 125.73 0)
 			(effects
 				(font
@@ -15535,7 +15524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 198.12 120.65 0)
 			(effects
 				(font
@@ -15707,7 +15696,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
 			(at 203.2 59.69 0)
 			(effects
 				(font
@@ -15905,7 +15894,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 73.66 54.61 0)
 			(effects
 				(font
@@ -16041,7 +16030,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 139.446 144.018 0)
 			(effects
 				(font
@@ -16327,7 +16316,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 154.94 111.76 0)
 			(effects
 				(font
@@ -16396,7 +16385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 184.15 69.85 0)
 			(effects
 				(font
@@ -16901,7 +16890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 123.19 54.61 0)
 			(effects
 				(font
@@ -16971,7 +16960,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 144.78 40.64 0)
 			(effects
 				(font
@@ -17076,7 +17065,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
 			(at 67.31 24.13 0)
 			(effects
 				(font
@@ -17143,7 +17132,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:D_SOD-323"
 			(at 67.31 62.23 90)
 			(effects
 				(font
@@ -17229,7 +17218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 118.11 109.22 0)
 			(effects
 				(font
@@ -17400,7 +17389,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 81.28 143.51 0)
 			(effects
 				(font
@@ -17535,7 +17524,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 140.97 143.51 0)
 			(effects
 				(font
@@ -17602,7 +17591,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 63.5 154.94 0)
 			(effects
 				(font
@@ -17706,7 +17695,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 118.11 132.08 0)
 			(effects
 				(font
@@ -17877,7 +17866,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 154.94 140.97 0)
 			(effects
 				(font
@@ -17945,7 +17934,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 99.06 161.29 0)
 			(effects
 				(font
@@ -18050,7 +18039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:TestPoint_Pad_D3.0mm"
 			(at 203.2 66.04 0)
 			(effects
 				(font
@@ -18116,7 +18105,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 79.756 144.018 0)
 			(effects
 				(font
@@ -18270,7 +18259,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 73.66 80.01 0)
 			(effects
 				(font
@@ -18338,7 +18327,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 180.34 128.27 0)
 			(effects
 				(font
@@ -18443,7 +18432,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 193.04 69.85 0)
 			(effects
 				(font
@@ -18614,7 +18603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 175.26 69.85 0)
 			(effects
 				(font
@@ -18718,7 +18707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 165.1 125.73 0)
 			(effects
 				(font
@@ -18822,7 +18811,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 62.23 125.73 0)
 			(effects
 				(font
@@ -18890,7 +18879,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:SW_SPST_EVQPE1"
 			(at 54.61 124.46 0)
 			(effects
 				(font
@@ -18958,7 +18947,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:SW_SPST_EVQPE1"
 			(at 118.11 77.47 0)
 			(effects
 				(font
@@ -19028,7 +19017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
 			(at 154.94 133.35 90)
 			(effects
 				(font
@@ -19096,7 +19085,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 83.82 161.29 0)
 			(effects
 				(font
@@ -19202,7 +19191,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-14_3.9x8.7mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-14_3.9x8.7mm_P1.27mm"
 			(at 93.98 40.64 0)
 			(effects
 				(font
@@ -19374,7 +19363,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 176.53 40.64 0)
 			(effects
 				(font
@@ -19644,7 +19633,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
 			(at 154.94 106.68 90)
 			(effects
 				(font
@@ -19713,7 +19702,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 144.78 80.01 0)
 			(effects
 				(font
@@ -19781,7 +19770,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 73.66 62.23 0)
 			(effects
 				(font
@@ -19985,7 +19974,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "8bitcomp:SOIC-8_3.9x4.9mm_P1.27mm"
 			(at 143.256 80.518 0)
 			(effects
 				(font
@@ -20271,7 +20260,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:Potentiometer_Piher_PT-15-V15_Vertical_Hole"
 			(at 73.66 69.85 0)
 			(effects
 				(font
@@ -20343,7 +20332,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:CP_EIA-3216-18_Kemet-A"
 			(at 48.26 133.35 0)
 			(effects
 				(font
@@ -20411,7 +20400,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 44.45 129.54 0)
 			(effects
 				(font
@@ -20481,7 +20470,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "8bitcomp:LED_0603_1608Metric"
 			(at 207.01 133.35 90)
 			(effects
 				(font
