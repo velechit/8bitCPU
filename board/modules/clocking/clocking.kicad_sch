@@ -15029,7 +15029,7 @@
 	)
 	(text "Syncronizer Latch"
 		(exclude_from_sim no)
-		(at 156.21 151.384 0)
+		(at 136.906 140.208 0)
 		(effects
 			(font
 				(face "Aldrich")
