@@ -3034,7 +3034,7 @@
 				)
 			)
 		)
-		(property "Footprint" "8bitcomp:SW_SPST_EVQPE1"
+		(property "Footprint" "8bitcomp:SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS"
 			(at 0 5.08 0)
 			(effects
 				(font
